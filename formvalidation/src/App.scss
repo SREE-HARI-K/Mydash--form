@@ -1,0 +1,35 @@
+.App {
+  margin: 0;
+  width: 100vw;
+}
+
+svg {
+  background: white;
+  overflow: visible;
+  margin-bottom: 2rem;
+  display: block;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.chart__update {
+  margin-left: 25rem;
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  background: #1ddb5c;
+  color: white;
+  border-radius: 5px;
+  font-weight: 400;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}

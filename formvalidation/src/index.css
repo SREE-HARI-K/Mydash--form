@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+svg {
+    background: white;
+    overflow: visible;
+    margin-bottom: 2rem;
+    display: block;
+    margin-right: 50rem;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  button {
+    margin-bottom: 5px;
+    width: 100px;
+  }
